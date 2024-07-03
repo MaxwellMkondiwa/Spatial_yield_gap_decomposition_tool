@@ -1,0 +1,2 @@
+This repository shows a workflow of decomposing yield gaps into different component in a spatially differentiated manner. We are also to explain the factors that affect risk in addition to yield and yield gaps. We rely on a Bayesian geoadditive efficiency model of location and scale by Klein et al (2020).
+The workflow can be accessed here: https://MaxwellMkondiwa/github.io/Spatial_Yield_Gap_decomposition
